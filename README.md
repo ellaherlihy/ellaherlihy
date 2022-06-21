@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
 <h3 align="center">A junior full stack developer from London, recently graduated from the Le Wagon Web Development bootcamp.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellaherlihy" alt="ellaherlihy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellaherlihy" alt="ellaherlihy" /></a> </p>
 
 - 👩🏼‍💻 View my final bootcamp project here [Lingo Buddy](http://www.lingo-buddy.com/)
 
 - 🌱 I’m currently learning **Javascript & Python**
 
 - 📫 How to reach me **ellaherlihy@gmail.com**
-
-- 📄 View my LinkedIn [https://www.linkedin.com/in/ella-herlihy/](https://www.linkedin.com/in/ella-herlihy/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
