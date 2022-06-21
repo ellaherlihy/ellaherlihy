@@ -5,7 +5,7 @@
 
 - 👩🏼‍💻 View my final bootcamp project here [Lingo Buddy](http://www.lingo-buddy.com/)
 
-- 🌱 I’m currently learning **Javascript & Python**
+- 🌱 I’m currently learning Javascript, Ruby, HTML, CSS & Python
 
 - 📫 How to reach me **ellaherlihy@gmail.com**
 
