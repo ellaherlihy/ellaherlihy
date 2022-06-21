@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ella</h1>
+<h1 align="center">Hi 👋 I'm Ella</h1>
 <h3 align="center">A junior full stack developer from London, recently graduated from the Le Wagon Web Development bootcamp.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellaherlihy" alt="ellaherlihy" /></a> </p>
