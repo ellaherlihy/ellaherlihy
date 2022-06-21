@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Javascript, Ruby, HTML, CSS & Python
 
-- 📫 How to reach me **ellaherlihy@gmail.com**
+- 📫 How to reach me ➡️ **ellaherlihy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
