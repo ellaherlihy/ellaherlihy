@@ -7,7 +7,7 @@
 
 - 👀 I’m looking for full time junior full stack web development roles
 
-- 📫 How to reach me ➡️ *ellaherlihy@gmail.com*
+- 📫 How to reach me ➡️ *ellaherlihy@icloud.com*
 
 - View my LinkedIn ➡️ <a href="https://linkedin.com/in/ella-herlihy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ella herlihy" height="20" width="30" /></a>
 <br>
