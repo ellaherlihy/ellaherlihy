@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ella</h1>
 <h3 align="center">A junior full stack developer from London, recently graduated from the Le Wagon Web Development bootcamp.</h3>
 
-- 👩🏼‍💻 View my final bootcamp project here: [Lingo Buddy]([http://www.lingo-buddy.com/](https://lingo-buddy-personal-90a867b34a95.herokuapp.com/)
+- 👩🏼‍💻 View my final bootcamp project here: [Lingo Buddy](https://lingo-buddy-personal-90a867b34a95.herokuapp.com/)
 
 - 🌱 I’m currently learning Javascript, Ruby, HTML, CSS & Python
 
