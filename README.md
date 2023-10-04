@@ -10,5 +10,9 @@
 - View my LinkedIn ➡️ <a href="https://linkedin.com/in/ella-herlihy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ella herlihy" height="20" width="30" /></a>
 <br>
 <h3 align="center">Languages and Tools</h3> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
