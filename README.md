@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ella</h1>
 <h3 align="center">A junior full stack developer from Brighton.</h3>
 
-- 👩🏼‍💻 View my work here: <a href="https://effervescent-buttercream-80eb17.netlify.app/">Portfolio</a>
+- 👩🏼‍💻 View my work here: <a href="ellaherlihy.io">Portfolio</a>
 
 - 👀 I’m looking for full time junior full stack web development roles
 
