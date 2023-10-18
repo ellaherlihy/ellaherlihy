@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ➡️ *ellaherlihy@icloud.com*
 
-- View my LinkedIn ➡️ <a href="https://linkedin.com/in/ella-herlihy" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+- View my LinkedIn ➡️ <a href="https://linkedin.com/in/ella-herlihy" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="20px"/></a>
 <br>
 <h3 align="center">Languages and Tools</h3> 
 <p align="center">
