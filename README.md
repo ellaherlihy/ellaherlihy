@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ella</h1>
-<h3 align="center">A junior full stack developer from Brighton.</h3>
+<h3 align="center">A junior web developer from Brighton.</h3>
 
 - 👩🏼‍💻 View my work here: <a href="https://ellaherlihy.io/">Portfolio</a>
 
-- 👀 I’m looking for full time junior full stack web development roles
+- 👀 I’m looking for full time junior web development roles
 
 - 📫 How to reach me ➡️ *ellaherlihy@icloud.com*
 
