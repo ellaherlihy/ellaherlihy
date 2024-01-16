@@ -3,8 +3,6 @@
 
 - 👩🏼‍💻 View my work here: <a href="https://ellaherlihy.io/">Portfolio</a>
 
-- 👀 I’m looking for full time junior web development roles
-
 - 📫 How to reach me ➡️ *ellaherlihy@icloud.com*
 
 - View my LinkedIn ➡️ <a href="https://linkedin.com/in/ella-herlihy" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="20px"/></a>
