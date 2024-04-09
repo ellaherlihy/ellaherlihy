@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ella</h1>
-<h3 align="center">A software engineer from Brighton.</h3>
+<h3 align="center">A software engineer in Brighton.</h3>
 
 - 👩🏼‍💻 View my work here: <a href="https://ellaherlihy.io/">Portfolio</a>
 
